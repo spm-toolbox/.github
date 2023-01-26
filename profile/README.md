@@ -1,9 +1,28 @@
 # Welcome to SPM Toolboxes :wave:
 
-- [SPM Software](https://www.fil.ion.ucl.ac.uk/spm/)
-- [SPM GitHub Organisation](https://github.com/spm/)
-- [SPM Toolboxes](https://www.fil.ion.ucl.ac.uk/spm/ext/)
+This GitHub Organisation contains *mirrors* of toolboxes compatible with the SPM software.
 
-This GitHub Organisation contains *mirrors* of some toolboxes compatible with the SPM software.
+- [SPM Software](https://www.fil.ion.ucl.ac.uk/spm/) :computer: :brain:
+- [SPM GitHub Organisation](https://github.com/spm/) :houses:
+- [SPM Toolboxes](https://www.fil.ion.ucl.ac.uk/spm/ext/) :house:
 
-If you want to report an issue or open a pull request for one of these toolboxes, please do so on the upstream repository.
+If you want to report an issue or open a pull request for one of these toolboxes, please do so on their upstream repository. To report a problem in the interaction between one of these toolboxes and SPM you can use the [SPM repository](https://github.com/spm/spm).
+
+- [BrainNet Viewer](https://github.com/mingruixia/BrainNet-Viewer): Brain network visualization tool
+- [CAT12](https://github.com/ChristianGaser/cat12):  Computational Anatomy Toolbox for SPM12
+- [CONN](https://github.com/alfnie/conn): Functional connectivity toolbox
+- [ExploreASL](https://github.com/ExploreASL/ExploreASL): Pipeline and toolbox for image processing and statistics of arterial spin labeling perfusion MR images
+- [FieldTrip](https://github.com/fieldtrip/fieldtrip): MATLAB toolbox for MEG, EEG and iEEG analysis
+- [hMRI](https://github.com/hMRI-group/hMRI-toolbox):  Toolbox for quantitative MRI and in vivo histology using MRI (hMRI)
+- [Lead-DBS](https://github.com/netstim/leaddbs): Toolbox facilitating deep brain stimulation electrode locations and connectomic imaging
+- [Marsbar](https://github.com/marsbar-toolbox/marsbar): Region of interest toolbox for SPM
+- [MRM](https://github.com/martynmcfarquhar/MRM): Multivariate and Repeated Measures for Neuroimaging
+- [PALM](https://github.com/andersonwinkler/PALM): Permutation Analysis of Linear Models
+- [SnPM](https://github.com/SnPM-toolbox/SnPM-devel): Statistical NonParametric Mapping
+- [SPMd](https://github.com/gllmflndn/SPMd): Statistical Parametric Mapping Diagnosis
+- [SPMMouse](https://github.com/neurospin/spmmouse): Toolbox for SPM in the Aminal Brain
+- [SUIT](https://github.com/jdiedrichsen/suit): Toolbox for the analysis of cerebellar imaging data
+- [SwE](https://github.com/NISOx-BDI/SwE-toolbox): Toolbox implementing the Sandwich Estimator for SPM
+- [TAPAS](https://github.com/translationalneuromodeling/tapas): Translational Algorithms for Psychiatry-Advancing Science
+
+To suggest a new toolbox or extension, please [create an issue](https://github.com/spm-toolbox/.github/issues/new) or contact us at fil.spm@ucl.ac.uk :writing_hand:
