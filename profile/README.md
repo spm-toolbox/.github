@@ -31,6 +31,8 @@ To report a problem in the interaction between one of these toolboxes and SPM yo
 - [SwE](https://github.com/NISOx-BDI/SwE-toolbox): Toolbox implementing the Sandwich Estimator for SPM
 - [TAPAS](https://github.com/translationalneuromodeling/tapas): Translational Algorithms for Psychiatry-Advancing Science
 
+All the toolboxes listed here have their source code available on GitHub and should be compatible with the latest public release of SPM. For a more complete list of toolboxes, [check the SPM website](https://www.fil.ion.ucl.ac.uk/spm/ext/).
+
 All the forks are kept up-to-date thanks to [GitHub App Pull](https://github.com/apps/pull).
 
-To suggest a new toolbox or extension, please [create an issue](https://github.com/spm-toolbox/.github/issues/new) or contact us at fil.spm@ucl.ac.uk :writing_hand:
+To suggest adding a toolbox or extension, please [create an issue](https://github.com/spm-toolbox/.github/issues/new) or contact us at fil.spm@ucl.ac.uk :writing_hand:
