@@ -11,6 +11,7 @@ If you want to report an issue or open a pull request for one of these toolboxes
 - [BrainNet Viewer](https://github.com/mingruixia/BrainNet-Viewer): Brain network visualization tool
 - [CAT12](https://github.com/ChristianGaser/cat12):  Computational Anatomy Toolbox for SPM12
 - [CONN](https://github.com/alfnie/conn): Functional connectivity toolbox
+- [DPABI](https://github.com/Chaogan-Yan/DPABI): Toolbox for Data Processing & Analysis of Brain Imaging 
 - [ExploreASL](https://github.com/ExploreASL/ExploreASL): Pipeline and toolbox for image processing and statistics of arterial spin labeling perfusion MR images
 - [FieldTrip](https://github.com/fieldtrip/fieldtrip): MATLAB toolbox for MEG, EEG and iEEG analysis
 - [hMRI](https://github.com/hMRI-group/hMRI-toolbox):  Toolbox for quantitative MRI and in vivo histology using MRI (hMRI)
@@ -18,6 +19,7 @@ If you want to report an issue or open a pull request for one of these toolboxes
 - [Marsbar](https://github.com/marsbar-toolbox/marsbar): Region of interest toolbox for SPM
 - [MRM](https://github.com/martynmcfarquhar/MRM): Multivariate and Repeated Measures for Neuroimaging
 - [PALM](https://github.com/andersonwinkler/PALM): Permutation Analysis of Linear Models
+- [rsHRF](https://github.com/compneuro-da/rsHRF): Toolbox for Resting State HRF Deconvolution and Connectivity Analysis
 - [SnPM](https://github.com/SnPM-toolbox/SnPM-devel): Statistical NonParametric Mapping
 - [SPMd](https://github.com/gllmflndn/SPMd): Statistical Parametric Mapping Diagnosis
 - [SPMMouse](https://github.com/neurospin/spmmouse): Toolbox for SPM in the Aminal Brain
