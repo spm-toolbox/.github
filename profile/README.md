@@ -1,12 +1,16 @@
-# Welcome to SPM Toolboxes :wave:
+# :wave: Welcome to SPM Toolboxes :wave:
 
 This GitHub Organisation contains *mirrors* of toolboxes compatible with the SPM software.
 
-- [SPM Software](https://www.fil.ion.ucl.ac.uk/spm/) :computer: :brain:
-- [SPM GitHub Organisation](https://github.com/spm/) :houses:
-- [SPM Toolboxes](https://www.fil.ion.ucl.ac.uk/spm/ext/) :house:
+- [SPM Software](https://www.fil.ion.ucl.ac.uk/spm/) :computer:
+- [SPM GitHub Organisation](https://github.com/spm/) :octocat:
+- [SPM Toolboxes](https://www.fil.ion.ucl.ac.uk/spm/ext/) :toolbox:
 
-If you want to report an issue or open a pull request for one of these toolboxes, please do so on their upstream repository. To report a problem in the interaction between one of these toolboxes and SPM you can use the [SPM repository](https://github.com/spm/spm).
+If you want to report an issue or open a pull request for one of these toolboxes, please do so on their upstream repository.
+
+To report a problem in the interaction between one of these toolboxes and SPM you can use the [SPM repository](https://github.com/spm/spm).
+
+## Alphabetic list of toolboxes
 
 - [BrainNet Viewer](https://github.com/mingruixia/BrainNet-Viewer): Brain network visualization tool
 - [CAT12](https://github.com/ChristianGaser/cat12):  Computational Anatomy Toolbox for SPM12
