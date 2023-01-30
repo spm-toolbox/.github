@@ -14,12 +14,13 @@ To report a problem in the interaction between one of these toolboxes and SPM yo
 
 - [BrainNet Viewer](https://github.com/mingruixia/BrainNet-Viewer): Brain network visualization tool
 - [CAT12](https://github.com/ChristianGaser/cat12): Computational Anatomy Toolbox for SPM12
+- [Clinical](https://github.com/neurolabusc/Clinical): Clinical Toolbox for SPM
 - [CONN](https://github.com/alfnie/conn): Functional connectivity toolbox
 - [DPABI](https://github.com/Chaogan-Yan/DPABI): Toolbox for Data Processing & Analysis of Brain Imaging 
 - [ExploreASL](https://github.com/ExploreASL/ExploreASL): Pipeline and toolbox for image processing and statistics of arterial spin labeling perfusion MR images
 - [FieldTrip](https://github.com/fieldtrip/fieldtrip): Toolbox for MEG, EEG and iEEG analysis
 - [hMRI](https://github.com/hMRI-group/hMRI-toolbox): Toolbox for quantitative MRI and in vivo histology using MRI
-- [JuBrain Anatomy Toolbox](https://github.com/inm7/jubrain-anatomy-toolbox)
+- [JuBrain Anatomy Toolbox](https://github.com/inm7/jubrain-anatomy-toolbox): Combining probabilistic cytoarchitectonic maps and functional imaging data
 - [Lead-DBS](https://github.com/netstim/leaddbs): Toolbox facilitating deep brain stimulation electrode locations and connectomic imaging
 - [Marsbar](https://github.com/marsbar-toolbox/marsbar): Region of interest toolbox for SPM
 - [MRM](https://github.com/martynmcfarquhar/MRM): Multivariate and Repeated Measures for Neuroimaging
