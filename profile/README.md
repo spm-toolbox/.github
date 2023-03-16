@@ -17,6 +17,7 @@ To report a problem in the interaction between one of these toolboxes and SPM yo
 - [CAT12](https://github.com/ChristianGaser/cat12): Computational Anatomy Toolbox for SPM12
 - [Clinical](https://github.com/neurolabusc/Clinical): Clinical Toolbox for SPM
 - [CONN](https://github.com/alfnie/conn): Functional connectivity toolbox
+- [CTseg](https://github.com/WCHN/CTseg): Brain CT image segmentation, normalisation, skull-stripping and total brain/intracranial volume computation
 - [DPABI](https://github.com/Chaogan-Yan/DPABI): Toolbox for Data Processing & Analysis of Brain Imaging 
 - [ExploreASL](https://github.com/ExploreASL/ExploreASL): Pipeline and toolbox for image processing and statistics of arterial spin labeling perfusion MR images
 - [FieldTrip](https://github.com/fieldtrip/fieldtrip): Toolbox for MEG, EEG and iEEG analysis
