@@ -13,6 +13,7 @@ To report a problem in the interaction between one of these toolboxes and SPM yo
 ## Alphabetic list of toolboxes
 
 - [ArtRepair](https://github.com/PAmcconnell/ArtRepair): ArtRepair for robust fMRI
+- [Automatic Analysis (aa)](https://github.com/automaticanalysis/automaticanalysis): Pipeline system for neuroimaging
 - [BrainNet Viewer](https://github.com/mingruixia/BrainNet-Viewer): Brain network visualization tool
 - [CAT12](https://github.com/ChristianGaser/cat12): Computational Anatomy Toolbox for SPM12
 - [Clinical](https://github.com/neurolabusc/Clinical): Clinical Toolbox for SPM
