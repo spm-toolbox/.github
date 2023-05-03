@@ -22,6 +22,7 @@ To report a problem in the interaction between one of these toolboxes and SPM yo
 - [DPABI](https://github.com/Chaogan-Yan/DPABI): Toolbox for Data Processing & Analysis of Brain Imaging 
 - [ExploreASL](https://github.com/ExploreASL/ExploreASL): Pipeline and toolbox for image processing and statistics of arterial spin labeling perfusion MR images
 - [FieldTrip](https://github.com/fieldtrip/fieldtrip): Toolbox for MEG, EEG and iEEG analysis
+- [GIFT](https://github.com/trendscenter/gift): Group ICA/IVA software
 - [hMRI](https://github.com/hMRI-group/hMRI-toolbox): Toolbox for quantitative MRI and in vivo histology using MRI
 - [JuBrain Anatomy Toolbox](https://github.com/inm7/jubrain-anatomy-toolbox): Combining probabilistic cytoarchitectonic maps and functional imaging data
 - [Lead-DBS](https://github.com/netstim/leaddbs): Toolbox facilitating deep brain stimulation electrode locations and connectomic imaging
